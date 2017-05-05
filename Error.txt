@@ -1,9 +1,9 @@
-/* En el siguiente código encuentre y solucione sólo un error */
+﻿/* En el siguiente código encuentre y solucione sólo un error */
 
 
 include <stdio.h>
 
-imt main()
+int main()
 {
    int a, b;
    float $i;
