@@ -1,4 +1,4 @@
-/* En el siguiente código encuentre y corrija sólo un error */
+/* En el siguiente código encuentre y solucione sólo un error */
 
 
 include <stdio.h>
