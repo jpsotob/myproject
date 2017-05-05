@@ -6,3 +6,7 @@ Práctia - GIT - GITHUB
 
 Instrucciones:
 1.- Clone el proyecto 
+2.- Localmente cree un archivo y nómbrelo con el número de su expediente.
+3.- Abra dicho archivo y escriba su nombre y lugar de nacimiento.
+4.- Suba el archivo al proyecto en github.
+
