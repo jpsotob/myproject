@@ -13,5 +13,5 @@ int main()
    printf( "%d", b )
    printf( "%f", c );
    retunr 0;
-
+}
 /* Fin del archivo
