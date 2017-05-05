@@ -1,0 +1,8 @@
+/*
+Curso de Ingeniera de Software I
+Lic. en Cs de la Computación
+Práctia - GIT - GITHUB
+*/
+
+Instrucciones:
+1.- Clone el proyecto 
