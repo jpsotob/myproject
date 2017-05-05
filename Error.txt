@@ -1,7 +1,7 @@
 ﻿/* En el siguiente código encuentre y solucione sólo un error */
 
 
-include <stdio.h>
+#include <stdio.h>
 
 int main()
 {
@@ -13,3 +13,5 @@ int main()
    printf( "%d", b )
    printf( "%f", c );
    retunr 0;
+
+/* Fin del archivo
