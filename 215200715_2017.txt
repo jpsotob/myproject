@@ -1,0 +1,11 @@
+mkdir TheProject
+cd TheProject
+git clone https://github.com/jpsotob/myproject.git
+cd myproject
+git status
+git add 215200715.txt
+git status
+git add Error.txt
+git commit -m "Ponia 'imt' en lugar de 'int'"
+git add 215200715_2017.txt
+git push
