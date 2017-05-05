@@ -10,7 +10,7 @@ imt main()
    a = 4;
    b = a * 6;
    c = 3.1416;
-   printf( "%d", b )
+   printf( "%d", b );
    printf( "%f", c );
    retunr 0;
 
