@@ -9,4 +9,7 @@ Instrucciones:
 2.- Localmente cree un archivo y nómbrelo con el número de su expediente.
 3.- Abra dicho archivo y escriba su nombre y lugar de nacimiento.
 4.- Suba el archivo al proyecto en github.
+5.- Identifique y corrija sólo un error en el código mostrado en el archivo error.txt
+6.- Subir un archivo en donde aparezcan todos comandos utilizados en git para poder llevar a cabo las instrucciones anteriores. El archivo nombrenlo de la siguiente manera: num_expediente2017.txt
+
 
