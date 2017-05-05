@@ -1,7 +1,7 @@
 ﻿/* En el siguiente código encuentre y solucione sólo un error */
 
 
-#include <stdio.h>
+include <stdio.h>
 
 int main()
 {
@@ -10,8 +10,8 @@ int main()
    a = 4;
    b = a * 6;
    c = 3.1416;
-   printf( "%d", b );
+   printf( "%d", b )
    printf( "%f", c );
-   retunr 0;
-}
+   return 0;
+
 /* Fin del archivo

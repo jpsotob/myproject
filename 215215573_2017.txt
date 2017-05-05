@@ -1,0 +1,16 @@
+//clonacion del proyecto
+git clone https://github.com/jpsotob/myproject.git
+//creacion del archivo con datos
+vi 215215573.txt
+//edicion del archivo con errores
+vi Error.txt // escribi int en lugar de imt como valor devuelto de main
+git add 215215573.txt
+git commit -m "Nombre y dato"
+git add Error.txt
+git commit -m "Corregi el valor devulto como return en lugar de retunr"
+git add 215215573_2017.txt
+git commit -m "Comandos usados"
+git push origin master
+
+Por problema con los derechos, no puedo subir usando la linea de comandos, por lo que
+estos comandos son solo teoricamente lo que se deberia hacer.
