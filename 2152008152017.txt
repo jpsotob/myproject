@@ -1,0 +1,15 @@
+Comandos para obtener el repositorio:
+git clone https://github.com/jpsotob/myproject.git
+cd myproject/
+
+Comandos para el archivo de texto con informacion:
+nano 215200815.txt
+git add 215200815.txt
+git commit -m "Primera parte de la practica"
+git push origin master
+
+Comandos para la correcion de un error de Error.txt:
+nano Error.txt
+git add Error.txt
+git commit -m "Arreglado el error de importacion de libreria."
+git push origin master

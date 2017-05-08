@@ -1,20 +1,20 @@
 ﻿/* En el siguiente código encuentre y solucione sólo un error */
 
 
-#include <stdio.h>
+include <stdio.h>
 
 int main()
 {
    int a, b;
-   float $i;
+   float $i, c;
    a = 4;
    b = a * 6;
    c = 3.1416;
    printf( "%d", b )
    printf( "%f", c );
+
    retunr 0;
 }
 
-// agregando un comentario -Sebastian
 
 /* Fin del archivo

@@ -1,0 +1,15 @@
+Comandos para obtener el repositorio:
+git clone https://github.com/jpsotob/myproject.git
+cd myproject/
+ 
+Comandos para el archivo de texto con informacion:
+vi 214210063.txt
+git add 214210063.txt
+git commit -m "Documento con mi nombre"
+git push origin master
+ 
+Comandos para la correcion de un error de Error.txt:
+vi Error.txt
+git add Error.txt
+git commit -m "Declarare c como flotante."
+git push origin master
